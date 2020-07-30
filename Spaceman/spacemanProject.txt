@@ -1,0 +1,5 @@
+First C# project.
+
+Command-line application for hangman type game where player must guess the code word within a limited number of guesses before a person is abducted by aliens.
+
+Created to demonstrate object oriented programming and basic understanding of c#.
